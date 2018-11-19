@@ -1,1 +1,3 @@
-# masters assignments Lab 7
+### In this assignment, I learned :
+* Using Cassandra.
+* Doing ETL.
